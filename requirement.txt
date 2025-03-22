@@ -1,0 +1,7 @@
+flask
+flask-restful
+opencv-python
+mediapipe
+numpy
+supabase
+uuid
